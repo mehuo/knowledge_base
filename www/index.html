@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en" ng-app="base">
+<head>
+    <meta charset="UTF-8">
+    <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;script-src * 'unsafe-inline';connect-src *;">-->
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+    <title>知识仓库</title>
+    <link rel="stylesheet" href="static/js/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/js/sweetalert/dist/sweetalert.css">
+    <link rel="stylesheet" href="static/css/app.css">
+</head>
+<body>
+    <div class="base" ng-controller="BaseCtrl">
+        <div>
+            <div class='header'>
+                <div class="menu-nav">
+                    <div class="left">
+                        <img class="logo" src="static/img/logo.png" alt="">
+                        <!-- <div class="sys-name">魅惑</div> -->
+                        <div class="clearfix"></div>
+                    </div>
+                    <div class="right">
+                        <ul>
+                            <li class="fli" ng-repeat="item in menus" ng-mouseenter="openDrop($event)" ng-mouseleave="closeDrop($event)">
+                                <a ui-sref="{{item.url}}">{{item.name}}</a>
+                                <ul class="dropdown-menu" ng-show="item.subs.length>0">
+                                    <div class="triangle"></div>
+                                    <li ui-sref="{{menu.url}}" ng-repeat="menu in item.subs"><a>{{menu.name}}</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+            <div class="content">
+                <div class="main-content" ui-view></div>
+            </div>
+        </div>
+    </div>
+</body>
+<script src="static/js/jquery/dist/jquery.min.js"></script>
+<script src="static/js/sweetalert/dist/sweetalert.min.js"></script>
+<script src="static/js/fastclick.js"></script>
+<script src="static/js/vendor.js"></script>
+<script src="static/app/bundle.js"></script>
+
+<script src="static/app/config/menus.js"></script>
+<script src="static/app/config/config.js"></script>
+
+
+</html>

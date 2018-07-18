@@ -1,0 +1,90 @@
+.base .header {
+  width: 100%;
+  height: 60px;
+  padding: 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #fff;
+  z-index: 100; }
+  .base .header .left {
+    float: left;
+    width: 300px; }
+    .base .header .left .logo {
+      width: 60px;
+      margin-top: 8px;
+      margin-left: 20px; }
+  .base .header .right {
+    width: calc(100% - 300px);
+    float: right; }
+  .base .header ul {
+    line-height: 60px;
+    font-size: 16px;
+    padding-right: 30px;
+    float: right; }
+    .base .header ul li {
+      float: left;
+      padding: 0 48px;
+      list-style: none;
+      position: relative; }
+      .base .header ul li.active:after {
+        content: "";
+        width: 10px;
+        height: 2px;
+        left: 50%;
+        top: 100%;
+        position: absolute;
+        background: #409eff; }
+      .base .header ul li a {
+        color: #888;
+        text-decoration: none; }
+      .base .header ul li:active {
+        color: #000; }
+      .base .header ul li .dropdown-menu {
+        position: absolute;
+        border: none;
+        box-shadow: 0px 0px 16px #cdcdcd;
+        left: 17%;
+        top: 95%;
+        line-height: 24px;
+        display: none;
+        min-width: 100px;
+        width: 100px;
+        padding-right: 0; }
+        .base .header ul li .dropdown-menu .triangle {
+          position: absolute;
+          left: 50%;
+          top: -5px;
+          width: 0;
+          height: 0;
+          border-left: 5px solid transparent;
+          border-right: 5px solid transparent;
+          border-bottom: 5px solid #fff;
+          box-sizing: border-box; }
+        .base .header ul li .dropdown-menu .open {
+          display: block; }
+        .base .header ul li .dropdown-menu li {
+          padding-left: 0; }
+          .base .header ul li .dropdown-menu li a {
+            font-size: 14px;
+            font-weight: 100; }
+            .base .header ul li .dropdown-menu li a:hover {
+              background: #fff;
+              color: #409eff; }
+.base .content {
+  width: 100%;
+  height: 100%;
+  margin-top: 61px;
+  background: #fff; }
+  .base .content iframe {
+    width: 100%;
+    height: 100%;
+    position: absolute; }
+
+.module-index .picture {
+  width: 1000px;
+  margin: 0 auto;
+  display: block;
+  margin-top: 150px; }
+
+/*# sourceMappingURL=app.css.map */
