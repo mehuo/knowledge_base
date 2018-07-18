@@ -16,8 +16,7 @@
     "dependencies": {
         "angular": "^1.7.0",
         "angular-bootstrap": "^0.12.2",
-        "angular-ui-router": "^1.0.18",
-        "webpack": "^1.15.0"
+        "angular-ui-router": "^1.0.18"
     },
     "devDependencies": {
         "@types/lodash": "^4.14.109",
@@ -38,6 +37,7 @@
         "gulp-uglify": "^2.1.2",
         "lodash": "^4.17.10",
         "sass": "^1.9.2",
+        "webpack": "^1.15.0",
         "webpack-livereload-plugin": "^0.8.1",
         "webpack-stream": "^4.0.2"
     }
