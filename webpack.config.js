@@ -1,4 +1,3 @@
-
 /**
  * Created by caidi on 16/6/1.
  */
@@ -25,4 +24,3 @@ module.exports = {
         modulesDirectories: ['node_modules', 'www/static/js'],
     }
 };
-
