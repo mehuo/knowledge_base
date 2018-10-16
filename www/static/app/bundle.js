@@ -179,6 +179,9 @@
 	    }).state('exam-loading', {
 	        url: '/exam-loading',
 	        templateUrl: 'modules/example/loading.html'
+	    }).state('exam-system', {
+	        url: '/exam-system',
+	        templateUrl: 'modules/example/project.html'
 	    });
 	};
 	

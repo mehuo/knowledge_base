@@ -17,7 +17,7 @@ var nav = [{
         'sign': 'case',
         'url': '',
         'subs': [
-            { 'name': '报告', 'sign': 'report', 'url': '/views/case/report/report.html#bar' },
+            // { 'name': '报告', 'sign': 'report', 'url': '/views/case/report/report.html#bar' },
             { 'name': '加载中', 'sign': 'report', 'url': 'exam-loading' }
         ]
     },
@@ -25,6 +25,13 @@ var nav = [{
         'name': '组件库',
         'sign': 'commom',
         'url': 'component',
+        'target': '_blank',
+        'subs': []
+    },
+    {
+        'name': '项目展示',
+        'sign': 'exam-system',
+        'url': 'exam-system',
         'target': '_blank',
         'subs': []
     }
