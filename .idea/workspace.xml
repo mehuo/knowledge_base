@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8821fe5c-4f2d-4c3d-8f4c-95d360b8630c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/bootstrap/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/bootstrap/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/bootstrap/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/bootstrap/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/daterangepicker/daterangepicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/fonts/icomoon.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/fonts/icomoon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/fonts/icomoon.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/fonts/icomoon.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/fonts/latin-ext.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/fonts/latin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/css/standard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/_sidebar.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/docsify.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/general/css.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/general/html.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/general/javascript.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/imgs/可视化埋点流程.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/imgs/点选页面元素绑定事件.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/imgs/页面元素事件绑定以及收集.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/plugins/prism-bash.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/plugins/prism-markdown.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/plugins/prism-nginx.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/plugins/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/summary/shadowdom.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/summary/可视化埋点.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/docs/vue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/download/fe/fyn/UAR运营分析.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/download/fe/fyn/analysis.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/download/添加文档说明.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/adspirit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/customsetlect-ul.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/index/l1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/index/l2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/index/logob.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/monkey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/nav/channel-analysis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/nav/down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/nav/event-and-trans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/nav/participation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/nav/theme-report.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/nav/up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/nav/user-analysis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/page-left.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/page-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/require-date.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/require.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/select-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/select.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/img/word-del.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/index/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/index/controllers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/index/directives/leftMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/index/directives/menuNav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/index/partials/leftMenu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/index/partials/menuNav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/report/controllers/analysisCtrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/report/controllers/analysisMain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/report/services/chart-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/report/services/chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/app_maps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/configs/authors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/configs/labels.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/configs/nav-data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/breadcrumb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/checkbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/complextable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/customselect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/daterangepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/inputs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/leftnav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/pagetable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/pagination.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/panel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/password.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/popup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/radio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/scrollbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/searchbox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/selectlabels.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/standard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/switch.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/controllers/words.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/alert.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/breadcrumb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/buttons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/checkbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/complextable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/customselect.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/dropdown.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/filter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/inputs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/leftnav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/pagetable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/pagination.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/password.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/radio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/scrollbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/searchbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/selectlabels.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/switch.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css/words.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/css_maps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/directives/angularInput.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/directives/angularSelect.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/directives/brief.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/directives/nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/directives/page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/directives/page2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/directives/viewSource.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/directives/viewStatus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/directives/word.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/lib/angular-highlightjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/lib/angular-ui-router.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/lib/highlight.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/partials/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/alert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/breadcrumb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/brief.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/checkbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/complextable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/customselect.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/daterangepicker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/dropdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/inputs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/layout.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/leftnav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/nav.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/pagetable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/pagination.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/password.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/popup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/radio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/scrollbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/searchbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/selectlabels.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/switch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/tab.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/viewSource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/viewStatus.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/standard/views/words.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/tech/controllers/fileCtrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor.map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/alert/mb-del.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/alert/myAlert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/angularjs/angular-daterangepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/angularjs/angular-route.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/angularjs/angular-sanitize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/angularjs/angular-strap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/angularjs/angular-translate-loader-static-files.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/angularjs/angular-translate.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/angularjs/angular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/angularjs/angular.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/angularjs/loading-bar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/bootstrap/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/daterangepicker/daterangepicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/daterangepicker/moment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/echarts/china.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/echarts/echarts-2.2.7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/echarts/echarts-wordcloud.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/echarts/echarts-wordcloud1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/echarts/echarts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/echarts/echarts.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/echarts/province.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/echarts/province.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/echarts/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/echarts/theme.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/echarts/world.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/ftree/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/ftree/tree.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/ftree/tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/ftree/tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/ftree/tree_icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/swiper/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/swiper/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/h5/item1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/h5/item2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/h5/item3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/h5/list.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/news/aboutme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/news/add-zxln-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/news/dashboard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/news/index.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/news/zxsj.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/admin-role.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/content-libary.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/fx-web-index.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/index.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/market-creative.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/market-plan.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/market-pq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/por-dc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/por-system.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/por-tags.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/pro-app-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/recom-media-tree.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/web-index-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/web-index-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/web-real-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/web-real-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/img/uar/web-real-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/fyn/system-image/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/jquery/jquery-1.9.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/jquery/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/menus/file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/menus/menus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/swiper/css/swiper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/swiper/css/swiper.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/swiper/js/maps/swiper.jquery.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/swiper/js/maps/swiper.jquery.umd.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/swiper/js/maps/swiper.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/swiper/js/swiper.jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/swiper/js/swiper.jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/swiper/js/swiper.jquery.umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/swiper/js/swiper.jquery.umd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/swiper/js/swiper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/swiper/js/swiper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/tools.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/vue/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/source/vendor/vue/vue.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/views/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/views/case/loading/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/views/case/loading/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/views/case/report/area.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/views/case/report/bar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/views/case/report/pie.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/views/case/report/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/views/case/report/scatter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/views/case/report/trend.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/views/tech/file.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/views/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary/views/unit/standard.html" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/static/app/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#157#196#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/modules/component/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/static/app/config/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base-ctrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/static/app/controllers/base-ctrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/static/css/app.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="88" column="24" selection-start-line="85" selection-start-column="4" selection-end-line="88" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menus.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/static/app/config/menus.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-197" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="routes.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/static/app/routes.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>{</find>
+      <find>#000</find>
+      <find>000</find>
+      <find>$navcolor</find>
+      <find>cdcdcd</find>
+      <find>base</find>
+      <find>;</find>
+      <find>b</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/modules/index/index.html" />
+        <option value="$PROJECT_DIR$/www/modules/example/report.html" />
+        <option value="$PROJECT_DIR$/www/modules/example/loading.html" />
+        <option value="$PROJECT_DIR$/www/static/css/example/loading.css" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/app.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/directives/nav.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/directives/angularInput.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/directives/angularSelect.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/directives/page.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/directives/page2.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/directives/word.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/alert.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/breadcrumb.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/buttons.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/css_maps.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/complextable.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/customselect.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/daterangepicker.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/dropdown.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/filter.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/home.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/inputs.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/layout.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/leftnav.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/pagetable.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/pagination.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/panel.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/password.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/popup.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/radio.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/scrollbar.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/searchbox.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/selectlabels.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/standard.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/switch.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/tab.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/table.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/controllers/words.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/app_maps.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/directives/brief.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/directives/viewSource.js" />
+        <option value="$PROJECT_DIR$/www/static/app/modules/component/directives/viewStatus.js" />
+        <option value="$PROJECT_DIR$/www/static/app/routes.js" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/www/static/app/config/config.js" />
+        <option value="$PROJECT_DIR$/www/modules/knowledge/index.html" />
+        <option value="$PROJECT_DIR$/www/static/app/app.js" />
+        <option value="$PROJECT_DIR$/www/static/css/app.sass" />
+        <option value="$PROJECT_DIR$/www/modules/component/index.html" />
+        <option value="$PROJECT_DIR$/www/static/app/controllers/base-ctrl.js" />
+        <option value="$PROJECT_DIR$/www/static/app/config/menus.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/www/static/js/angular-bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/www/static/js/angular/package.json" />
+      <path value="$PROJECT_DIR$/www/static/js/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/www/static/js/lodash/package.json" />
+      <path value="$PROJECT_DIR$/www/static/js/sweetalert/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="knowledge_base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge_base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge_base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge_base" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge_base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge_base" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge_base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge_base" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="knowledge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge_base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge_base" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge_base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge_base" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge_base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge_base" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="knowledge_base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="knowledge_base" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8821fe5c-4f2d-4c3d-8f4c-95d360b8630c" name="Default" comment="" />
+      <created>1531894838797</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1531894838797</updated>
+      <workItem from="1531894840155" duration="15091000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15091000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.24947146" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32969698" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info id="npm" order="0" side_tool="true" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32969698" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/directives/angularSelect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/directives/angularInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/directives/page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/directives/page2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/directives/word.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/alert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/breadcrumb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/buttons.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/complextable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/customselect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/daterangepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/dropdown.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/filter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/inputs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/leftnav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/pagetable.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/pagination.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/panel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/password.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/popup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/radio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/scrollbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/searchbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/selectlabels.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/standard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/switch.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/tab.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/table.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/controllers/words.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/standard.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/directives/brief.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="52" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/directives/viewSource.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/directives/viewStatus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/css_maps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/views/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/directives/nav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/app_maps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/modules/component/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#157#196#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/css/app.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="88" column="24" selection-start-line="85" selection-start-column="4" selection-end-line="88" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/modules/knowledge/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/controllers/base-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/config/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/modules/component/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="29" column="75" selection-start-line="29" selection-start-column="75" selection-end-line="29" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/app/config/menus.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-197" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
